@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hallmadden/static/css/main.e13a0abc.css",
+    "main.js": "/hallmadden/static/js/main.b254dc0c.js",
+    "static/js/787.fe23d7ff.chunk.js": "/hallmadden/static/js/787.fe23d7ff.chunk.js",
+    "static/media/clothes.jpg": "/hallmadden/static/media/clothes.cf92a5bc9b7f908528f2.jpg",
+    "static/media/makeup.jpg": "/hallmadden/static/media/makeup.52d6b723737322f12a4b.jpg",
+    "static/media/camera.jpg": "/hallmadden/static/media/camera.f139cc818b46346d561d.jpg",
+    "static/media/facebook.png": "/hallmadden/static/media/facebook.13863c99c209978a4569.png",
+    "static/media/instagram.png": "/hallmadden/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/smiling-emoticon-square-face.png": "/hallmadden/static/media/smiling-emoticon-square-face.63b13b4dd540ad1fad68.png",
+    "static/media/user-interface.png": "/hallmadden/static/media/user-interface.81ba1b5410b1286ea250.png",
+    "static/media/twitter.png": "/hallmadden/static/media/twitter.93ac3f9a344ecd5d01a4.png",
+    "static/media/heart.png": "/hallmadden/static/media/heart.c412cbaead4744166c20.png",
+    "static/media/youtube.png": "/hallmadden/static/media/youtube.060528b6e83f2004078d.png",
+    "static/media/shopping-cart.png": "/hallmadden/static/media/shopping-cart.96c73cb49987ccdf1154.png",
+    "static/media/address.webp": "/hallmadden/static/media/address.89ffba7f3e5ebb965413.webp",
+    "index.html": "/hallmadden/index.html",
+    "static/media/email.webp": "/hallmadden/static/media/email.667128e87aabb7c03e84.webp",
+    "main.e13a0abc.css.map": "/hallmadden/static/css/main.e13a0abc.css.map",
+    "main.b254dc0c.js.map": "/hallmadden/static/js/main.b254dc0c.js.map",
+    "787.fe23d7ff.chunk.js.map": "/hallmadden/static/js/787.fe23d7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13a0abc.css",
+    "static/js/main.b254dc0c.js"
+  ]
+}
