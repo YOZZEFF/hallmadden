@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hallmadden/static/css/main.e13a0abc.css",
-    "main.js": "/hallmadden/static/js/main.ec8bb94e.js",
+    "main.js": "/hallmadden/static/js/main.ed082062.js",
     "static/js/787.fe23d7ff.chunk.js": "/hallmadden/static/js/787.fe23d7ff.chunk.js",
     "static/media/clothes.jpg": "/hallmadden/static/media/clothes.cf92a5bc9b7f908528f2.jpg",
     "static/media/makeup.jpg": "/hallmadden/static/media/makeup.52d6b723737322f12a4b.jpg",
@@ -18,11 +18,11 @@
     "index.html": "/hallmadden/index.html",
     "static/media/email.webp": "/hallmadden/static/media/email.667128e87aabb7c03e84.webp",
     "main.e13a0abc.css.map": "/hallmadden/static/css/main.e13a0abc.css.map",
-    "main.ec8bb94e.js.map": "/hallmadden/static/js/main.ec8bb94e.js.map",
+    "main.ed082062.js.map": "/hallmadden/static/js/main.ed082062.js.map",
     "787.fe23d7ff.chunk.js.map": "/hallmadden/static/js/787.fe23d7ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e13a0abc.css",
-    "static/js/main.ec8bb94e.js"
+    "static/js/main.ed082062.js"
   ]
 }
